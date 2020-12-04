@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671631143878",
+    "firebase_url": "https://referitflutter.firebaseio.com",
+    "project_id": "referitflutter",
+    "storage_bucket": "referitflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671631143878:android:fb08bb2889f24060e238c7",
+        "android_client_info": {
+          "package_name": "com.example.ReferIt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671631143878-f4jf9kr6om42664iqf19kpc4fpap6nc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDhBRVi0ywS7poOnQMTn3Lf2ezUfFuvDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671631143878-f4jf9kr6om42664iqf19kpc4fpap6nc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
